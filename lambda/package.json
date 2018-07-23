@@ -1,0 +1,18 @@
+{
+  "name": "serverlessapi",
+  "version": "1.0.0",
+  "description": "Serverless api",
+  "readme": "Serverless api",
+  "repository": "https://github.com/scbd/serverless-api",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "dependencies": {
+    "mime-types": "2.1.19",
+    "sharp": "0.17.3",
+    "page-previewer": "0.1.7",
+    "office-document-properties": "1.0.6"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.36.0"
+  }
+}
